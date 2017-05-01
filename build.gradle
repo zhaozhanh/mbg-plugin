@@ -2,7 +2,6 @@ group 'com.zzh'
 version '1.0-SNAPSHOT'
 
 apply plugin: 'java'
-apply plugin: 'eclipse'
 apply plugin: 'maven'
 
 sourceCompatibility = 1.8
