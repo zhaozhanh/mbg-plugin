@@ -24,7 +24,20 @@
 ```
 
 > 使用说明
-1. 
+1. 下载项目
 ```
-  git clone 
+  git clone https://github.com/naughtybear/mbg-plugin.git
 ```
+2. 进入项目目录
+```
+  cd mbg-plugin
+```
+3. 使用maven或者gradle安装到本地maven仓库
+```
+  mvn install
+```
+或者
+```
+  gradle install
+```
+4. [run mgb with maven](https://github.com/naughtybear/run-mbg-with-maven)
